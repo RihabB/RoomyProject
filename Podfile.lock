@@ -1,0 +1,35 @@
+PODS:
+  - AFNetworking (2.1.0):
+    - AFNetworking/NSURLConnection (= 2.1.0)
+    - AFNetworking/NSURLSession (= 2.1.0)
+    - AFNetworking/Reachability (= 2.1.0)
+    - AFNetworking/Security (= 2.1.0)
+    - AFNetworking/Serialization (= 2.1.0)
+    - AFNetworking/UIKit (= 2.1.0)
+  - AFNetworking/NSURLConnection (2.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.1.0):
+    - AFNetworking/NSURLConnection
+  - AFNetworking/Reachability (2.1.0)
+  - AFNetworking/Security (2.1.0)
+  - AFNetworking/Serialization (2.1.0)
+  - AFNetworking/UIKit (2.1.0):
+    - AFNetworking/NSURLConnection
+  - QuickBlox (2.7.4)
+  - Quickblox-WebRTC (2.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.1.0)
+  - QuickBlox
+  - Quickblox-WebRTC (~> 2.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: d397c9a76a60c670cbcd33f3ff2c5f961f724cbc
+  QuickBlox: 226ea4575090970e9b0e015f940b9b6e9b60ca09
+  Quickblox-WebRTC: 4575357666869f1d517eaef7da3d70da09f66686
+
+PODFILE CHECKSUM: fef13d1f9450b126d86c5fa12a03862eaa11d0fc
+
+COCOAPODS: 1.0.1
